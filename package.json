@@ -10,5 +10,8 @@
     "tiny-lr": "*",
     "gulp-livereload": "*",
     "gulp-plumber": "*"
+  },
+  "devDependencies": {
+    "browser-sync": "^1.4.0"
   }
 }
